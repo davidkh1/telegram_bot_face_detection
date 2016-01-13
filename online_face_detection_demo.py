@@ -1,5 +1,5 @@
-#Back-end impmlemenation of Telegram bot for Thales demo
-#Author: David Khosid
+# Back-end impmlemenation of Telegram bot
+# Author: David Khosid
 # Run: python online_face_detection_demo.py
 
 import sys
